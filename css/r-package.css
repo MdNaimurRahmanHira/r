@@ -107,6 +107,11 @@ header img {
     right: 10%;
 
 }
+.menu-hide-btn i{
+    font-size: 28px;
+   color: #3A6996;
+   display: none;
+}
 
 .left-menu a:hover {
     background-color: var(--secondary-color);
